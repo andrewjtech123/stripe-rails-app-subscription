@@ -50,3 +50,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 gem 'bootstrap-sass'
 gem 'stripe', '~> 3.28'
+gem 'stripe_event', '~> 2.1', '>= 2.1.1'
